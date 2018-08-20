@@ -56,6 +56,10 @@ h1, h3, p, a {
   font-family: sans-serif;
 }
 
+.photo-credit {
+  font-size: 8px; 
+}
+
 @media screen and (min-width: 1001px) {
   .container2 {
     width: 100%;

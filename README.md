@@ -29,6 +29,7 @@ This is the start of a webpage that will showcase projects worked on throughout 
 1. https://github.com/udacity/mws-restaurant-stage-1
 2. https://h5p.org/memory-game
 3. https://mastercaweb.u-strasbg.fr/web-developers-and-their-agents/?lang=en
+4. https://logo-maker.ucraft.com/
 
 ## Legal
 Copyright (c) 2018 Alex Migdol
